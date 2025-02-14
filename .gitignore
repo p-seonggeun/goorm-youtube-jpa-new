@@ -1,3 +1,7 @@
+thumbnail/**
+vod/**
+logs/**
+
 HELP.md
 .gradle
 build/
